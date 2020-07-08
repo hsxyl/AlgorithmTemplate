@@ -97,3 +97,5 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
+.idea/vcs.xml
+"src/datastruct/\346\240\221\347\212\266\346\225\260\347\273\204/\344\272\214\347\273\264\346\240\221\347\212\266\346\225\260\347\273\204/"
